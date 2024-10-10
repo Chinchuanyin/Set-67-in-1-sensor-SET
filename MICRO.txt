@@ -1,0 +1,9 @@
+MICRO:BIT SHIELD
+Panel de conectores para tarjetas Microbit, compatible v1 y v2.
+Facilita la conexión con cualquier tipo de sensores.  Evita el conexionado con pinzas de cocodrilo. Expande las posibilidades de conexión a cualquier tipo de comunicación mediante 3 conexiones por canal – facilita sensores Grove, octupus, etc…)
+Permite utilizar sensores con alimentación a 3,3 V o a 5 V, simplemente con un jumper (conector incluido)
+Interfaces de conexión I2C y SPI incluidas y accesibles facilmente.
+Alimentación por micro-usb o toma alimentador 7 – 9V.
+
+https://arduinomodules.info/ky-029-dual-color-led-module/
+
