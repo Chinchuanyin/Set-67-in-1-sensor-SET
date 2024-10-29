@@ -2,8 +2,6 @@
 
 # SENSOR DE HUMEDAD DE SUELO
 
-![](01_fotos/61-0-Soil_Moisture_Sensor.png)
-
 # 1. Características
 
 SENSOR DE HUMEDAD DE SUELO
@@ -21,4 +19,4 @@ Medidas Sonda: 6  x 3 cm
 
 # 3. Foto
 
-![](01_FOTOS/61-0-Soil Moisture Sensor.png)
+![](01_FOTOS/61-0-Soil-Moisture-Sensor.png)
