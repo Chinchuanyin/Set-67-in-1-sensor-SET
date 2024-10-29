@@ -2,8 +2,7 @@
 
 # SENSOR DE HUMEDAD DE SUELO
 
-
-![](01_fotos/03-2-uno-r3.jpeg)
+![](01_fotos/61-0-Soil Moisture Sensor.png)
 
 # 1. Características
 
