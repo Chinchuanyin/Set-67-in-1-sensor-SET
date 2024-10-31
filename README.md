@@ -1,5 +1,25 @@
-# **KIT DE 71 COMPONENTES ELECTRONICOS PARA MICRO:BIT Y ARDUINO**
+# **KIT DE 71 COMPONENTES ELECTRONICOS PARA PROGRAMACIÓN CON MICRO:BIT Y PLATAFORMA ARDUINO**
 *Kit de componentes electrónicos, sensores, actuadores y componentes basicos para aula-laboratorio de informática y robótica*
+
+# 1. Descripción
+
+[Micro: bit](http://microbit.org/guide/features/) es una pequeña tarjeta programable de 4x5 cm diseñada para que aprender a programar sea fácil, divertido y al alcance de todos. Gracias a la gran cantidad de sensores que incorpora, solo con la tarjeta micro bit se pueden llevar a cabo centenares de proyectos. Micro bit también es una plataforma IoT (Internet of Things), lo que la hace muy interesante para usuarios avanzados. Tiene un entorno de programación gráfico propio: MakeCode de Microsoft, un sencillo editor gráfico online muy potente y gratuito que posibilita introducirnos en el mundo de la programación de forma intuitiva a través del lenguaje de programación visual o de bloques.
+
+Por otro lado Arduino es una plataforma de creación de electrónica de código abierto, la cual está basada en hardware y software libre, flexible y fácil de utilizar para los creadores y desarrolladores.
+
+Este kit de componentes es compatible tanto con micro:bit como con la plataforma arduino. Está diseñado específicamente para completar y mejorar otros kits existentes en el mercado de forma que sea compatible con ellos.
+
+# 3. Links de interes
+
+Plataforma Micro:bit [Link](https://microbit.org/es-es/)
+
+Plataforma Arduino [Link](https://www.arduino.cc/)
+
+Github del fabricante Keyestudio y su kit de 45 componentes [Link](https://github.com/keyestudio/KS4009-4010-Keyestudio-Micro-bit-45-in-1-Sensor-Learning-Kit/tree/master)
+
+Portal de Catedu de programación con Arduino Blocks [Link](https://libros.catedu.es/books/arduino-con-arduinoblocks)
+
+# 3. Listado de componentes
 
 | Nº.  | Artículo                                             | Cantidad  | Foto                                                      |
 | ---- | ------------------------------------------------ | ---- | ------------------------------------------------------------ |
