@@ -1,7 +1,7 @@
 # **KIT DE 71 COMPONENTES ELECTRONICOS PARA MICRO:BIT Y ARDUINO**
 *Kit de componentes electrónicos, sensores, actuadores y componentes basicos para aula-laboratorio de informática y robótica*
 
-| No.  | Mode                                             | QTY  | Picture                                                      |
+| Nº.  | Artículo                                             | Cantidad  | Foto                                                      |
 | ---- | ------------------------------------------------ | ---- | ------------------------------------------------------------ |
 | 1  |  Placa BBC Microbit v2.2 | 1 |![](01_fotos/01-2-microbit.png) |
 | 2  |  Micro bit Sensor Shield V2 Placa de Ampliación. | 1 |![](01_fotos/02-2-shield-micro-bit.png) |
@@ -40,8 +40,7 @@
 | 35  |  Sensor Temperatura 18B20 KY-001 | 1 |![](01_fotos/35-0-ky-001.png) |
 | 36  |  Sensor ritmo cardiaco KY-039 | 1 |![](01_fotos/36-1-ky-039.png) |
 | 37  |  Sensor hall KY-035 | 1 |![](01_fotos/37-0-ky-035.png) |
-"| 38  |  Sensor Magic Light Cup KY-027. Funcionan con mercurio, 
-NO SE SUMINISTRAN POR PRECAUCIÓN | 1 | |"
+| 38  |  Sensor Magic Light Cup KY-027. Funcionan con mercurio, NO SE SUMINISTRAN POR PRECAUCIÓN | 1 | |
 | 39  |  Sensor inclinacion KY-037 NO SE SUMINISTRAN POR PRECAUCIÓN | 1 | |
 | 40  |  Módulo LED 3W Blanco | 1 |![](01_fotos/40-2-led-potencia.png) |
 | 41  |  Módulo tres led "Semáforo" | 1 |![](01_fotos/41-2-semaforo-led.png) |
@@ -75,7 +74,6 @@ NO SE SUMINISTRAN POR PRECAUCIÓN | 1 | |"
 | 69  |  Lector tarjeta SD | 1 |![](01_fotos/69-1-SD-card-reading-and-writing-Module.png) |
 | 70  |  Regulador tensión MP1584EN | 1 |![](01_fotos/70-1-MP1584EN.png) |
 | 71  |  Reloj digital DS1302 | 1 |![](01_fotos/71-1-ds1302.jpeg) |
-![image](https://github.com/user-attachments/assets/683e43a5-efa8-4396-a391-c1dcc980711f)
 
 
 
