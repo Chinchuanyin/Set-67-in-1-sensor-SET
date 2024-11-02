@@ -1,7 +1,7 @@
 # **KIT DE 71 COMPONENTES ELECTRONICOS PARA MICRO:BIT Y ARDUINO**
-*Componente dentro del kit de sensores, actuadores y componentes basicos para aula-laboratorio de informática y robótica*
-# **Diosdo emisor laser**
-## **1. Descripción**
+*Componente dentro del kit de sensores, actuadores y componentes basicos para aula-laboratorio de informÃ¡tica y robÃ³tica*
+# **Diodo emisor laser**
+## **1. DescripciÃ³n**
 -Voltaje de funcionamiento: 5V
 
 -Largo de onda: 650nm
@@ -14,7 +14,7 @@
 
 -Dimensiones: 18.5 X 15mm
 
-Extremar precauciones en su uso debido a la luz del láser.
+Extremar precauciones en su uso debido a la luz del lÃ¡ser.
 ## **2. Web de interes**
 https://arduinomodules.info/ky-008-laser-transmitter-module/
 ## **3. Foto**
