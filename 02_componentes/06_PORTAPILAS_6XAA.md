@@ -1,10 +1,14 @@
 # **KIT DE 71 COMPONENTES ELECTRONICOS PARA MICRO:BIT Y ARDUINO**
-*Componente dentro del kit de sensores, actuadores y componentes basicos para aula-laboratorio de inform醫ica y rob髏ica*
+*Componente dentro del kit de sensores, actuadores y componentes basicos para aula-laboratorio de inform谩tica y rob贸tica*
 # **Portapilas 6xAA**
-## **1. Descripci髇**
-Soporte de bater韆 para 6 pilas AA con enchufe de CC
+## **1. Descripci贸n**
+Soporte de bater铆a para 6 pilas AA con enchufe de CC
 
-Conector de alimentaci髇 JACK
+Conector de alimentaci贸n JACK
+
+Tensi贸n de suministro nominal = 9 V.
+
+Material: pl谩stico ABS
 
 ## **2. Web de interes**
 
